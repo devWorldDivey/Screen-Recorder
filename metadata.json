@@ -1,0 +1,6 @@
+{
+  "name": "Screen Recorder & Video Editor",
+  "description": "A professional in-browser screen recorder and timeline video editor supporting high-resolution exports, real-time filters, customizable text overlays, and audio mix options.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
